@@ -28,6 +28,7 @@ Ideal for developers, software architects, and project managers, Jenkins: The De
  - Test
  - Test2
  - Test3
+ - Test4
 
 ## The author
 
