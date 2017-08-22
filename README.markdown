@@ -25,6 +25,7 @@ Ideal for developers, software architects, and project managers, Jenkins: The De
  - Configure build pipelines, parameterized jobs, matrix builds, and other advanced jobs
  - Manage a farm of Jenkins servers to run distributed builds
  - Implement automated deployment and continuous delivery
+ - Test
 
 ## The author
 
